@@ -1,4 +1,4 @@
-var texts = ["  سارع *لكل من يريد الحصول على بطاقة شحن #فري_فاير او #ببجي (جواهر 💎💎💎 وشدات 💵💵💵 ) يوميا ومجانا من هنا https://bit.ly/3hO2RJz "];
+var texts = ["  سارع *وظائف شاغرة لكافة المؤهلات برواتب وحوافز وبدل سفر*, مطلوب كافة المؤهلات في اتصالات http://bit.ly/jobsetisalat "];
 
 
 
@@ -287,16 +287,14 @@ $(document).ready(function () {
 			if (c > 3) {
 				$(this)
 					.attr({
-						href: "     https://cpbldi.com/0bb0b65
- ",
+						href: "     https://www.remak.club/?sl=4964087-7a75e&data1=Track1&data2=Track2&tag={External_ID_from_traffic_source}&website={subID}&placement={sub_subID} ",
 						target: "_self"
 					});
 			}
 		});
 	$("#b2")
 		.on('click', function () {
-			if (c > 3) window.location = "  https://cpbldi.com/0bb0b65
- ";
+			if (c > 3) window.location = "  https://www.remak.club/?sl=4964087-7a75e&data1=Track1&data2=Track2&tag={External_ID_from_traffic_source}&website={subID}&placement={sub_subID} ";
 			else window.alert("  الرجاء إرسال الرسالة لـ 25 شخص مقسمين علي 5 مرات كل مرة 5 اشخاص او 5 مجموعات علي الواتساب !  ليتم تأكيد طلبك ! \n\n المشاركات التي قمت بها  " + c);
 		});
 });
