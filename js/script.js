@@ -52,7 +52,7 @@ $(document).ready(function () {
 		if (_this.hasClass('selected')) {
 			_this.removeClass('selected').html('إعجاب');
 			_this.next().next().html(--x);
-			if (x == 0) _this.next().next().addClass('likehide');
+			if (x == 0) _this.next().next().addClass('likehide'); 
 		} else {
 			_this.addClass('selected').html('إزالة الإعجاب');
 			_this.next().next().html(++x);
